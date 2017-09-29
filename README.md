@@ -1,2 +1,2 @@
 # sodablog
-This blog is based on Spring, Hibernate, AngularJS and WebPack.
+This blog is based on Spring, Hibernate, WebPack, AngularJS and Polymer.
