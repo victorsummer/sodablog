@@ -1,0 +1,23 @@
+{
+  "name": "sodablog",
+  "version": "1.0.0",
+  "description": "This blog is based on Spring, Hibernate, WebPack, AngularJS and Polymer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorsummer/sodablog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victorsummer/sodablog/issues"
+  },
+  "homepage": "https://github.com/victorsummer/sodablog#readme",
+  "devDependencies": {
+    "webpack": "^3.6.0"
+  }
+}
