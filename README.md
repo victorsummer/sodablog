@@ -1,2 +1,6 @@
 # sodablog
-This blog is based on Spring, Hibernate, WebPack, AngularJS and Polymer.
+
+Back end: Spring Boot
+ORM: Hibernate
+Auto make: Gradle
+Front end: Vue with WebPack
