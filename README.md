@@ -1,10 +1,15 @@
 # sodablog
 
+* Back end: Spring Boot
+* ORM: Hibernate
+* Auto make: Gradle
+* Front end: React with WebPack
 
-Back end: Spring Boot
 
-ORM: Hibernate
+Run:
 
-Auto make: Gradle
+Run `npm run-script watch` to put webpack into watch mode.
 
-Front end: Vue with WebPack
+Run `./gradlew bootRun` to boot spring server.
+
+
